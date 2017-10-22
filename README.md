@@ -1,3 +1,3 @@
-# BlueInfinity Challenge
+# blue-inifinity Challenge
 
-insert later.
+A challenge to the next phase of blue-infinity linked by Isobar of recruitment: a small website.
