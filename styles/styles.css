@@ -116,7 +116,7 @@ h2{
 }
 
 .rectangle-4 {
-  background: #e0ddd5;
+  background: #f0f0f0;
   color: #171e42;
   height: 170px;
   cursor: pointer;
@@ -131,7 +131,7 @@ h2{
 }
 
 .rectangle-4:hover {
-  -webkit-transform: scale(1.05); /*1.02*/
+  -webkit-transform: scale(1.10);
   -webkit-transition: all .2s ease-in-out;
 }
 
